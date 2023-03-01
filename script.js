@@ -1,7 +1,10 @@
+
 let yourArray;
 // assign your array the correct value in the next line
 // your code here!
-yourArray = [3,"Hello",true,5 6]
+
+yourArray=[1,56,true,"arham","lovecoding"];
+console.log(yourArray);
 // code end
 
 module.exports = yourArray
