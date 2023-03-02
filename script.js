@@ -4,7 +4,7 @@ let yourArray;
 // your code here!
 
 yourArray=[1,56,true,false,"arham","lovecoding", undefined, null];
-console.log(yourArray);
+console.log(yourArray.length);
 // code end
 
 module.exports = yourArray
